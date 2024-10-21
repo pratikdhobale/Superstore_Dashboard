@@ -1,5 +1,4 @@
 # Superstore_Dashboard
-
 **Dataset Overview** :
 The dataset used for this project contains sales information for a Superstore in the USA, including details on product categories, sales regions, customer segments, and order metrics. The data was cleaned and prepped in Excel to ensure consistency and accuracy before visualization.
 
